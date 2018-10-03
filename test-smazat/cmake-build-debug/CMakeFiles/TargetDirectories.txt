@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/ClionProjects/ep1/test-smazat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/ep1/test-smazat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/ep1/test-smazat/cmake-build-debug/CMakeFiles/test_smazat.dir

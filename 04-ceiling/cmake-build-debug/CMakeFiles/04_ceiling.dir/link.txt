@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_ceiling.dir/main.cpp.o  -o 04_ceiling 

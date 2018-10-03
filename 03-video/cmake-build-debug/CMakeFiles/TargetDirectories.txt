@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/ClionProjects/ep1/03-video/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/ep1/03-video/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/ep1/03-video/cmake-build-debug/CMakeFiles/03_video.dir

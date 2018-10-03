@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/02_souvisla.dir/main.cpp.o  -o 02_souvisla 

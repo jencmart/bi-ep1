@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_zavazadla.dir/main.cpp.o  -o 04_zavazadla 
